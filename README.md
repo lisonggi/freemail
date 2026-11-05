@@ -1,6 +1,6 @@
 # Freemail - 临时邮箱服务
 
-[![Deploy to Cloudflare Workers](https://deploy.workers.cloudflare.com/button)](https://deploy.workers.cloudflare.com/?url=https://github.com/idinging/freemail)
+[![Deploy to Cloudflare Workers](https://deploy.workers.cloudflare.com/button)](https://deploy.workers.cloudflare.com/?url=https://github.com/lisonggi/freemail)
 
 🇨🇳 中文 | 🌐 [English](README_en.md)
 
